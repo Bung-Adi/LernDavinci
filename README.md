@@ -18,10 +18,17 @@ Lompat ke :
 | `Alt + Scroll` | `Alt + Scroll` | Zoom IN OUT |
 | `CTRL +` | `Cmd +` | Zoom In |
 | `CTRL -` | `Cmd -` | Zoom Out |
-| `Ctrl + Scroll` | `Cmd + Scroll` | Move Left Right |
-| `Ctrl + F` | `Cmd + F` | Full Screen Timeline Player |
-<a href="https://gist.github.com/Bung-Adi/920922dee69dcca96e1c0da14130d584" target="_blank" rel="noopener noreferrer">More</a>
-
+| `Ctrl + Scroll` | `Cmd + Scroll` | Geser timeline ke kiri/kanan |
+| `Ctrl + F` | `Cmd + F` | Full Screen MediaPlayer Timeline |
+  
+| Key (Win) | Key (Mac) | Functionality |
+|-------|-------|-----------------------|
+| `Shift + ]` | `Cmd + ]` | Potong Kanan |
+| `Shift + [` | `Cmd + [` | Potong Kiri |
+| `Shift + Ctrl + ]` | `Shift + Ctrl + ]` | Riple potong Kanan |
+| `Shift + Ctrl + [` | `Shift + Ctrl + [` | Riple potong Kiri |
+| `Ctrl + D` | `Cmd + D` | durasi clip |
+| `Ctrl + R` | `Cmd + R` | opsi kecepetan clip |
 
 ## Fix Lag Playback
 #### Lower Timeline Resolution  
