@@ -1,6 +1,8 @@
 # Materi dan Catatan Belajar Davinci Resolve
 
-[File](https://drive.google.com/drive/folders/1x7UAusXc-EXPygDfLfmH0JUc7y8IsfGn?usp=drive_link)
+[File](https://drive.google.com/drive/folders/1x7UAusXc-EXPygDfLfmH0JUc7y8IsfGn?usp=drive_link)  
+[Download Latest Version](https://www.blackmagicdesign.com/products/davinciresolve)  
+[Older Version](https://www.blackmagicdesign.com/support/family/davinci-resolve-and-fusion)
 
 Lompat ke :  
 [Keyboard Shortcut](#keyboard-shortcut)  
